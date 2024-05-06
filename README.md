@@ -43,7 +43,7 @@ Successfully built a RESTful API using FastAPI to handle product management with
 
 - **FastAPI:** 
 	- A modern, fast web framework for building APIs with Python 3.7+ based on standard Python type hints.
- - **SQLite::** 
+ - **SQLite:** 
 	- A widely-used, lightweight, open-source, and self-contained relational database management system (RDBMS) that can be embedded within applications.
 - **JWT Authentication:** 
 	- Implementing JSON Web Token authentication for secure user authentication.
