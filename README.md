@@ -17,9 +17,9 @@ Successfully built a RESTful API using FastAPI to handle product management with
 
 ## DIR Structure
 <pre>
-- fastapi-ecommerce [Folder]\
-- sql_app [Folder]\
-    - auth.py\
+- fastapi-ecommerce [Folder]
+- sql_app [Folder]
+    - auth.py
     - main.py
     - crud.py
     - database.py
