@@ -108,7 +108,7 @@ Successfully built a RESTful API using FastAPI to handle product management with
    python run.py
    ```
 
-   The API will be accessible at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+   - The API will be accessible at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
 3. **Access the Swagger UI:**
 
