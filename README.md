@@ -76,7 +76,8 @@ Successfully built a RESTful API using FastAPI to handle product management with
 
 ## Screenshots 
 
-![image]()
+![image](https://github.com/atharvajaid/fastapi-ecommerce/blob/main/Images/1.png)
+![image](https://github.com/atharvajaid/fastapi-ecommerce/blob/main/Images/2.png)
 
 
 ## Installation
