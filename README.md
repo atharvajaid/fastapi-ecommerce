@@ -84,13 +84,13 @@ Successfully built a RESTful API using FastAPI to handle product management with
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/atharvajaid/FastAPI-Ecommerce
+   git clone https://github.com/atharvajaid/fastapi-ecommerce
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   FastAPI-Ecommerce
+   fastapi-ecommerce
    ```
 
 
